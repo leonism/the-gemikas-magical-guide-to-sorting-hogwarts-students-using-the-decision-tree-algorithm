@@ -1,0 +1,53 @@
+name,gender,age,origin,specialty,house,blood_status,pet,wand_type,patronus,quidditch_position,boggart,favorite_class,house_points
+Harry Potter,Male,11,England,Defense Against the Dark Arts,Gryffindor,Half-blood,Owl,Holly,Stag,Seeker,Dementor,Defense Against the Dark Arts,150
+Hermione Granger,Female,11,England,Transfiguration,Gryffindor,Muggle-born,Cat,Vine,Otter,None,Failure,Arithmancy,200
+Ron Weasley,Male,11,England,Chess,Gryffindor,Pure-blood,Rat,Ash,Jack Russell Terrier,Keeper,Spider,Charms,50
+Draco Malfoy,Male,11,England,Potions,Slytherin,Pure-blood,Owl,Hawthorn,None,Seeker,Lord Voldemort,Potions,100
+Luna Lovegood,Female,11,Ireland,Creatures,Ravenclaw,Half-blood,None,Fir,Hare,None,Her mother,Creatures,120
+Neville Longbottom,Male,11,England,Herbology,Gryffindor,Pure-blood,Toad,Cherry,Non-corporeal,None,Severus Snape,Herbology,70
+Ginny Weasley,Female,11,England,Defense Against the Dark Arts,Gryffindor,Pure-blood,Owl,Yew,Horse,Chaser,Tom Riddle,Defense Against the Dark Arts,140
+Cedric Diggory,Male,15,England,Quidditch,Hufflepuff,Pure-blood,None,Ash,Non-corporeal,Seeker,Failure,Defense Against the Dark Arts,160
+Cho Chang,Female,14,Scotland,Charms,Ravenclaw,Half-blood,Owl,Hazel,Swan,Seeker,Failure,Charms,110
+Severus Snape,Male,16,England,Potions,Slytherin,Half-blood,None,Elm,Doe,None,Lily Potter,Potions,90
+Albus Dumbledore,Male,17,England,Transfiguration,Gryffindor,Half-blood,Phoenix,Elder,Phoenix,None,Ariana's death,Transfiguration,200
+Minerva McGonagall,Female,16,Scotland,Transfiguration,Gryffindor,Half-blood,Cat,Fir,Cat,None,Failure,Transfiguration,190
+Bellatrix Lestrange,Female,15,England,Dark Arts,Slytherin,Pure-blood,None,Walnut,None,Azkaban,Dueling,80
+Nymphadora Tonks,Female,14,Wales,Metamorphmagus,Hufflepuff,Half-blood,Owl,Blackthorn,Wolf,None,Failure,Defense Against the Dark Arts,130
+Remus Lupin,Male,16,England,Defense Against the Dark Arts,Gryffindor,Half-blood,Dog,Cypress,Non-corporeal,None,Full Moon,Defense Against the Dark Arts,150
+Sirius Black,Male,16,England,Transfiguration,Gryffindor,Pure-blood,Owl,Chestnut,Dog,Beater,Full Moon,Defense Against the Dark Arts,140
+Horace Slughorn,Male,16,England,Potions,Slytherin,Half-blood,None,Cedar,Non-corporeal,None,Failure,Potions,100
+Filius Flitwick,Male,17,England,Charms,Ravenclaw,Half-blood,None,Hornbeam,Non-corporeal,None,Failure,Charms,180
+Pomona Sprout,Female,16,England,Herbology,Hufflepuff,Pure-blood,Cat,Pine,Non-corporeal,None,Failure,Herbology,170
+Helena Ravenclaw,Female,17,Scotland,Charms,Ravenclaw,Pure-blood,None,Rowan,Non-corporeal,None,Her mother,Charms,160
+Godric Gryffindor,Male,17,England,Dueling,Gryffindor,Pure-blood,None,Sword,Lion,None,Failure,Dueling,200
+Helga Hufflepuff,Female,17,Wales,Herbology,Hufflepuff,Pure-blood,None,Cedar,Non-corporeal,None,Failure,Herbology,190
+Rowena Ravenclaw,Female,17,Scotland,Charms,Ravenclaw,Pure-blood,None,Maple,Eagle,None,Failure,Charms,180
+Salazar Slytherin,Male,17,England,Dark Arts,Slytherin,Pure-blood,None,Ebony,Serpent,None,Failure,Dark Arts,200
+Molly Weasley,Female,16,England,Household Charms,Gryffindor,Pure-blood,Owl,Pine,Non-corporeal,None,Failure,Household Charms,80
+Arthur Weasley,Male,16,England,Muggle Artifacts,Gryffindor,Pure-blood,None,Hornbeam,Non-corporeal,None,Failure,Muggle Studies,60
+Lucius Malfoy,Male,16,England,Dark Arts,Slytherin,Pure-blood,Owl,Elm,Non-corporeal,None,Failure,Dark Arts,90
+Narcissa Malfoy,Female,15,England,Potions,Slytherin,Pure-blood,None,Hawthorn,Non-corporeal,None,Failure,Potions,70
+Pansy Parkinson,Female,11,England,Gossip,Slytherin,Pure-blood,Cat,Birch,Non-corporeal,None,Failure,Gossip,40
+Vincent Crabbe,Male,11,England,Strength,Slytherin,Pure-blood,None,Oak,Non-corporeal,None,Failure,Strength,50
+Gregory Goyle,Male,11,England,Strength,Slytherin,Pure-blood,None,Alder,Non-corporeal,None,Failure,Strength,50
+Lily Evans,Female,11,England,Charms,Gryffindor,Muggle-born,None,Willow,Doe,None,Failure,Charms,150
+James Potter,Male,11,England,Dueling,Gryffindor,Pure-blood,Owl,Walnut,Stag,Chaser,Failure,Dueling,160
+Peter Pettigrew,Male,11,England,Transformation,Gryffindor,Half-blood,Rat,Ash,Non-corporeal,None,Failure,Transformation,30
+Gilderoy Lockhart,Male,15,England,Memory Charms,Ravenclaw,Half-blood,None,Cherry,Non-corporeal,None,Failure,Memory Charms,70
+Dolores Umbridge,Female,15,England,Dark Arts,Slytherin,Half-blood,Cat,Hemlock,Non-corporeal,None,Failure,Dark Arts,60
+Newt Scamander,Male,17,England,Magical Creatures,Hufflepuff,Half-blood,Demiguise,Chestnut,Non-corporeal,None,Failure,Creatures,160
+Tina Goldstein,Female,17,USA,Auror,Hufflepuff,Half-blood,Owl,Ash,Non-corporeal,None,Failure,Defense Against the Dark Arts,140
+Queenie Goldstein,Female,17,USA,Legilimency,Ravenclaw,Half-blood,Owl,Cypress,Non-corporeal,None,Failure,Legilimency,130
+Jacob Kowalski,Male,17,USA,Baking,Hufflepuff,No-mag,None,Birch,Non-corporeal,None,Failure,Baking,10
+Theseus Scamander,Male,17,England,Auror,Gryffindor,Half-blood,Dog,Elder,Non-corporeal,None,Failure,Defense Against the Dark Arts,150
+Leta Lestrange,Female,16,England,Potions,Slytherin,Pure-blood,Cat,Ebony,Non-corporeal,None,Failure,Potions,100
+Nagini,Female,18,Indonesia,Transformation,Slytherin,Half-blood,Snake,Teak,Non-corporeal,None,Failure,Transformation,90
+Grindelwald,Male,18,Europe,Dark Arts,Slytherin,Pure-blood,None,Elder,Non-corporeal,None,Failure,Dark Arts,200
+Bathilda Bagshot,Female,17,England,History of Magic,Ravenclaw,Half-blood,Cat,Willow,Non-corporeal,None,Failure,
+Aberforth Dumbledore,Male,17,England,Goat Charming,Gryffindor,Half-blood,Goat,Oak,Non-corporeal,None,Failure,Goat Charming,70
+Ariana Dumbledore,Female,14,England,Obscurus,Gryffindor,Half-blood,None,Fir,Non-corporeal,None,Failure,Obscurus,20
+Victor Krum,Male,17,Bulgaria,Quidditch,Durmstrang,Pure-blood,None,Hawthorn,Non-corporeal,Seeker,Failure,Quidditch,180
+Fleur Delacour,Female,17,France,Charms,Beauxbatons,Half-blood,None,Rosewood,Non-corporeal,None,Failure,Charms,140
+Gabrielle Delacour,Female,14,France,Charms,Beauxbatons,Half-blood,None,Alder,Non-corporeal,None,Failure,Charms,80
+Olympe Maxime,Female,17,France,Strength,Beauxbatons,Half-blood,None,Fir,Non-corporeal,None,Failure,Strength,110
+Igor Karkaroff,Male,18,Europe,Dark Arts,Durmstrang,Half-blood,None,Yew,Non-corporeal,None,Failure,Dark Arts,90
